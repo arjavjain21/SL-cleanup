@@ -33,8 +33,8 @@ A comprehensive, safety-first solution for cleaning up inactive leads from Smart
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smart-lead-cleanup.git
-cd smart-lead-cleanup
+git clone https://github.com/yourusername/SL-cleanup.git
+cd SL-cleanup
 
 # Install dependencies
 pip install -r requirements.txt
@@ -135,7 +135,7 @@ Comprehensive reports include:
 ## 📁 Directory Structure
 
 ```
-smart-lead-cleanup/
+SL-cleanup/
 ├── smart_lead_cleanup.py     # Main script
 ├── requirements.txt          # Dependencies
 ├── .env.example             # Environment template
@@ -243,5 +243,6 @@ For issues, questions, or feature requests:
 3. Include log files and configuration (redacted)
 
 ---
+
 
 **Made with ❤️ for safer lead management**
